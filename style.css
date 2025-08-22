@@ -78,8 +78,8 @@ nav ul li{
   display: none;
 
   border-radius: 10px;
-  background-color: #2f3031a2;
-     backdrop-filter:blur(20px);
+  background-color:#00050dc4 !important;
+     backdrop-filter:blur(20px) !important; 
   column-count: 4;
   font-size: 25px;
   padding: 30px;
