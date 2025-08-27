@@ -51,27 +51,9 @@ nav ul li{
     font-size: 16px;
     font-weight: 545;
     letter-spacing: 1px;
-    margin-right: 10px;
+   margin-right: 10px;
     
 }
-
-/* .svg:hover{
-    
-    background-color: ghostwhite;
-    color: #000000;
-    font-size: 16px;
-    font-weight: 549;
-    letter-spacing: 1px;
-    padding: 10px;
-    border-radius: 7px;
-  
-} */
-/* .sub{
-    position: absolute;
-    left: 710px;
-    top:35px;
-} */
-
 .link-l:hover{
     background-color: ghostwhite;
     color: #000000;
@@ -221,114 +203,15 @@ nav ul li{
         background-color: #0c7bfa;
     }
 
-    /* Welcome to Prime Video */
-    
-    .container2{
-        background:linear-gradient(to right, #000000 48%,#0731a1);
-       
-    }
-    .black{
-        height: 80px;
+    /* title page */
+
+    .container1{
+        background-color: #00050d;
+        border: 1px solid red;
+        height: 500px;
         width: 100%;
-        background-color: #00050d;
-    }
-    .d-flex{
-        display: flex;
-        justify-content: space-between;
-    }
-    .title .t1{
-        color: ghostwhite;
-        font-size: 50px;
-        font-weight: 650;
-       padding: 60px;
-       
-    }
-    .title .t2{
-        color: ghostwhite;
-        font-size: 20px;
-        font-weight:650;
-        margin-left: 60px;
-        margin-bottom: 50px;
-    }
-    .title .btn1{
-        padding:20px;
-        font-size: 20px;
-        font-weight: 600;
-        border-radius: 10px;
-        margin-left: 50px;
-        margin-bottom: 350px;
-    }
-    .title .btn1:hover{
-        color: rgb(107, 107, 107);
-        transform: scale(1.1);
-    }
-    .box{
-        /* border: 1px solid green; */
-        height: 215px;
-    }
-    .photo{
-        border-radius: 10px;
-        border: 3px solid #0478ff;
-    }
-    .photo:hover{
-        transform: scale(1.1);
-    }
-    .container3{
-        background:linear-gradient(to right, #000000 48%,#0731a1);
-    }
-    .photos{
-        /* border: 1px solid red; */
-        width: 750px;   
-        height: 500px;
-        padding: 10px;
-        display: flex;
-        flex-wrap: wrap;
-        gap: 10px;
-        margin-top: 10px;
-       
-    }
-    
-    
-    .img1{
-        width: 1000px;
-        
-         
-        
     }
 
-    /* Your favorite subscriptions all in one place */
-
-    .container4{
-        background-color: #00050d;
-        height: 800px;
-    }
-    .icons{
-        width: 950px;   
-        height: 500px;
-        padding: 10px;
-        display: flex;
-        flex-wrap: wrap;
-        gap: 10px;
-        margin-top: 60px;
-        margin-right: 50px;
-    }
-    .icon{
-        /* border: 1px solid green; */
-        /* height: 200px; */
-        width: 288px;
-         height: 200px;
-         background:linear-gradient(to right, #377ba0 10%,#0b295d);
-         border-radius: 10px;
-         background-blend-mode: overlay;
-    }
-    .icon:hover{
-     box-shadow: rgba(252, 253, 253, 0.144) 0px 2px 4px 0px, rgba(253, 253, 253, 0.32) 0px 2px 16px 0px;
-    }
-    .img{
-        width: 288px;
-         height: 200px;
-        border-radius: 10px;
-    }
 
     /* footer */
 
@@ -372,7 +255,3 @@ nav ul li{
        font-size: 15px;
        
     }
-    
-    
-
-
