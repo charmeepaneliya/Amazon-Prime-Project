@@ -523,7 +523,23 @@ nav ul li .link-l{
 .d-flex{
     display:flex;
     flex-direction: column;
+    
+    
 }
+.container2 .title{
+   height: 300px;
+}
+.container3 .title{
+    margin-top: 400px;
+     height: 400px;
+}
+.container4 .title{
+    margin-top: 100px;
+     height: 500px;
+}
+
+}
+
    /* Movie rentals on Prime Video */
 
 
