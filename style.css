@@ -372,7 +372,200 @@ nav ul li{
        font-size: 15px;
        
     }
+
+     @media screen and (max-width:1400px){
+        /* header section */
+    .heading{
+    font-size: 17px;
+    padding: 18px;
     
+}
+
+.nav-right{
+    display: flex;
+    gap: 19px;
+    justify-content: end;
+    margin-left: 150px;
+}
+nav ul li .link-l{
+    
+    font-size: 16px;
+       
+}
+.link-r-search{
+    font-size: 16px;
+}
+.drp-btn{
+    font-size: 16px;
+}
+.dropdwon-menu{
+    font-size: 16px;
+}
+.icon-grid .link-r-grid{
+    font-size: 16px;
+}
+.icon-user .link-r-user{
+    font-size: 16px;
+}
+.prime-btn .btn{
+    font-size: 16px;
+}
+
+/* section1 */
+
+.title .t1{
+    font-size:40px ;
+}
+.title .t2{
+    font-size:15px ;
+}
+.box{
+        /* border: 1px solid green; */
+        height: 100px;
+        margin-bottom: 90px;
+    }
+    .photos{
+        /* border: 1px solid red; */
+        width: 750px;   
+        height: 100px;
+        padding: 10px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 30px;
+        margin-top: 10px;
+       
+    }
+    
+    }
+    
+
+
+    @media screen and (max-width:1200px){
+        /* header section */
+    .heading{
+    font-size: 15px;
+    padding: 17px;
+    
+}
+
+.nav-right{
+    display: flex;
+    gap: 17px;
+    justify-content: end;
+    margin-left: 100px;
+}
+nav ul li .link-l{
+    
+    font-size: 14px;
+       
+}
+.link-r-search{
+    font-size: 14px;
+}
+.drp-btn{
+    font-size: 14px;
+}
+.dropdwon-menu{
+    font-size: 14px;
+}
+.icon-grid .link-r-grid{
+    font-size: 14px;
+}
+.icon-user .link-r-user{
+    font-size: 14px;
+}
+.prime-btn .btn{
+    font-size: 14px;
+}
+
+/* SECTION1 */
+
+.title .t1{
+    font-size:40px ;
+}
+.title .t2{
+    font-size:15px ;
+}
+.box{
+        /* border: 1px solid green; */
+        height: 70px;
+        width: 80px;
+        margin: 40px;
+       
+    }
+    .photos{
+        /* border: 1px solid red; */
+        width: 750px;   
+        height: 100px;
+        padding: 10px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 70px;
+        margin-top: 10px;
+       
+    }
+    }
+
+
+    @media screen and (max-width:968px){
+        
+        .link-l{
+            display: none;
+        }
+        .nav-right{
+            display: flex;
+            gap: 16px;
+            justify-content: end;
+            margin-left: 80px;
+}
+
+/* section1 */
+.d-flex{
+    display:flex;
+    flex-direction: column;
+}
+   /* Movie rentals on Prime Video */
+
+
+    }
+    
+      @media screen and (max-width:768px){
+        
+        .link-l{
+            display: none;
+        }
+        .nav-right{
+            display: flex;
+            gap: 16px;
+            justify-content: end;
+            margin-left: 60px;
+}
+
+.d-flex{
+    display:flex;
+    flex-direction: column;
+}
+
+    }
+      @media screen and (max-width:468px){
+        
+        .link-l{
+            display:none;
+        }
+       
+        .nav-right{
+            display: flex;
+            gap: 16px;
+            justify-content: end;
+            margin-left: 50px;
+}
+
+.d-flex{
+    display:flex;
+    flex-direction: column;
+}
+
+    }
     
 
 
